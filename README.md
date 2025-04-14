@@ -1,16 +1,29 @@
-# language
+# 🌍 Language Translator App
 
-A new Flutter project.
+A Flutter-based mobile application for translating text between multiple languages.
 
-## Getting Started
+## ✨ Features
+- Translate text between 100+ languages
+- Voice input support
+- Copy translated text to clipboard
+- Light/Dark mode support
+- Offline translation capability (if implemented)
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+| Home Screen | Translation | Settings |
+|------------|-------------|----------|
+| ![Home](screenshots/home.png) | ![Translate](screenshots/translate.png) | ![Settings](screenshots/settings.png) |
 
-A few resources to get you started if this is your first Flutter project:
+*(Replace with your actual screenshots)*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+- Flutter SDK (version 3.0.0 or higher)
+- Android Studio/VSCode with Flutter plugin
+- Google Translate API key (if using cloud translation)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/language-translator.git
