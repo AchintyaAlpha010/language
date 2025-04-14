@@ -4,8 +4,6 @@ A Flutter-based mobile application for translating text between multiple languag
 
 ## ✨ Features
 - Translate text between 100+ languages
-- Voice input support
-- Copy translated text to clipboard
 - Light/Dark mode support
 - Offline translation capability (if implemented)
 
